@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 100px;
+    letter-spacing: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 10px rgb(220, 39, 39);
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top ;
+    background-attachment: fixed;
+
+}
+#ironman{
+    background-image: url("https://i.pinimg.com/736x/da/d4/08/dad4080c77d8478341a267c19a593c99.jpg");
+     
+}
+#caption{
+    background-image: url("https://wallpapers.com/images/hd/thor-hammer-captain-america-laptop-52w0soyzy94o3t84.jpg");
+  
+}
+#hulk{
+    background-image: url("https://cdn.magicdecor.in/com/2023/10/26161109/Fury-of-the-Hulk-Wallpaper-1-710x488.jpg");
+   
+}
+#girl{
+    background-image: url("https://i.pinimg.com/736x/51/d1/e4/51d1e47b69697bf8ca3f4e6a9dd1cbd9.jpg");
+}
+#spiderman{
+    background-image: url("https://cdn.wallpapersafari.com/65/31/hjYASs.jpg");
+}
+#ben10{
+    background-image: url("https://wallpapers.com/images/hd/ben-10-original-aliens-0wymltp80gw0gnww.jpg");
+}
